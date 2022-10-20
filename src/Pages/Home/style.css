@@ -1,0 +1,26 @@
+.form-label {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+.helpertext1 {
+    margin-top: 2.25rem;
+    font-size: .875em;
+    color: #6c757d;
+}
+.helpertext2 {
+    margin-top: 2.25rem;
+    font-size: .875em;
+    color: #6c757d;
+}
+
+#organization-card-container {
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.show-more {
+    color: #3366CC;
+    text-decoration: underline;
+    cursor: pointer;
+}
